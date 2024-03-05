@@ -7,7 +7,7 @@ This project consists of 8 Java files that demonstrate the use of various patter
 The program receives user input.
 
 # Acknowledgements
-Giving credits to classmates for contributing.
+Giving credits to classmates for contributing to group project.
 
 # Course Info
 - CUNY Queens College
